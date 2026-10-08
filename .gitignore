@@ -1,0 +1,5 @@
+*.cred.xml
+logs/*.log
+logs/*.txt
+reports/*.csv
+reports/*.html
